@@ -1,0 +1,13 @@
+site_name: Documentação Interna
+
+nav:
+  - Home: index.md
+  - Sistemas:
+      - Visão Geral: sistemas/index.md
+  - RH:
+      - Políticas: rh/politicas.md
+  - Contratos:
+      - Modelos: contratos/modelos.md
+
+theme:
+  name: material
