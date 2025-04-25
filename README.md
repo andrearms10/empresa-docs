@@ -7,3 +7,5 @@ Este repositório contém a documentação dos sistemas, RH, contratos e process
 A branch gh-pages é usada apenas para deploy automático.
 
 Atenção: Não edite diretamente na branch main.
+
+Para acessar o site de [Empresa Docs](https://andrearms10.github.io/empresa-docs/) 
